@@ -1,7 +1,7 @@
 # Bachelor Thesis Code
 This repository contains the R code for my Bachelor Thesis titled.
 
-#Abstract
+
 While the gender wage gap has been extensively studied, wage dis-
 parities based on nationality remain relatively underexplored. This the-
 sis examines wage differences between Swiss and non-Swiss workers us-
