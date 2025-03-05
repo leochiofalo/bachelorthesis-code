@@ -1,5 +1,6 @@
 # Bachelor Thesis Code
-This repository contains the R code for my Bachelor Thesis titled.
+This repository contains the R code for my Bachelor Thesis titled "Nationality Wage Gap in Switzerland:
+An Empirical Analysis Based on the Swiss Household Panel 1999 - 2021".
 
 
 ## Abstract
